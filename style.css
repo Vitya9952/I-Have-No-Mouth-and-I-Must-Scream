@@ -1,0 +1,30 @@
+img {
+    width: 350px;
+}
+img {
+    width: 350px;
+}
+
+body{
+    background-image: url(./windows-xp-wallpaper-with-tv-girl-created-by-me-1920x1080-v0-9b9em0puyo3e1.webp);
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+}
+h1{
+    font-size: 100px;
+    color: rgb(255, 255, 255);
+    text-shadow: 0px 0px 20px black;
+}
+
+button{
+    font-size: 20px;
+    background-color:
+     blue
+    
+}
+
+
+button:hover{
+    background-color: rgb(20, 20, 70);
+}
